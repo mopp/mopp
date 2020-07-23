@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm mopp :wave:
+- :telescope: I’m currently working on Elixir and Ruby.
+- :zap: Languages
+  - C, Assembly, Vim script, Rust, Erlang, Elixir, Ruby
+- :sparkle: Favorites
+  - OperatingSystem, Vim
 
-<!--
-**mopp/mopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- https://mopp.jp
+- https://blog.mopp.jp
+- https://twitter.com/Mopp_jp
+- https://best-friends.chat/@mopp
+- https://qiita.com/mopp
