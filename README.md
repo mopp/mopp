@@ -1,5 +1,5 @@
 ### Hi, I'm mopp :wave:
-- :telescope: I’m currently working on Elixir and Ruby.
+- :telescope: I've worked as a web backend-engineer in Tokyo/Japan with Ruby and Elixir. 
 - :zap: Languages
   - C, Assembly, Vim script, Rust, Erlang, Elixir, Ruby
 - :sparkle: Favorites
