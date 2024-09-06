@@ -7,7 +7,7 @@
 
 ## Links
 - https://mopp.jp
-- https://blog.mopp.jp
+- https://x.com/Mopp_jp
 - https://twitter.com/Mopp_jp
 - https://best-friends.chat/@mopp
 - https://qiita.com/mopp
